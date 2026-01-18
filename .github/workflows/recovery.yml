@@ -14,9 +14,9 @@ on:
 
 env:
   MANIFEST: https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni
-  DEVICE: m33x
-  DT_LINK: https://github.com/xgodyt9/android-recovery-tree-m33
-  DT_PATH: device/samsung/m33x
+  DEVICE: h398
+  DT_LINK: https://github.com/nino088/android_device_infinix_h398_smart2
+  DT_PATH: device/infinix/h398
   TARGET: recoveryimage
   TZ: Europe/London
 
